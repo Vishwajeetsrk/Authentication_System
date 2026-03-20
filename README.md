@@ -1,4 +1,4 @@
-#Secure MERN Stack Authentication System
+# MERN Stack Authentication System
 
 PrimeTrade is a full-stack authentication system built with the **MERN stack** (MongoDB Atlas, Express.js, React + Vite, Node.js). It implements secure user registration, login, JWT-based authentication, protected routes, and a clean dashboard interface.
 
@@ -122,8 +122,8 @@ Authentication-System
 ### 1. Clone the Repository
 bash
 ```
-git clone https://github.com/yourusername/PrimeTrade.git
-cd PrimeTrade
+git clone https://github.com/yourusername/Authentication_System.git
+cd Authentication_System
 ```
 ### 2. Backend Setup
 bash
