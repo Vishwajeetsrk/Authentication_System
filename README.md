@@ -49,6 +49,7 @@ The project serves as a solid foundation for any MERN application requiring user
 ---
 
 ## 📁 Project Structure
+```bash
 Primetrade-Intern-Task
 ├── backend
 │   ├── config
@@ -93,7 +94,7 @@ Primetrade-Intern-Task
 │
 ├── README.md
 └── .gitignore
-
+```
 
 ---
 
