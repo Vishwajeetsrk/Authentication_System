@@ -50,7 +50,7 @@ The project serves as a solid foundation for any MERN application requiring user
 
 ## 📁 Project Structure
 ```bash
-Primetrade-Intern-Task
+Authentication-System
 ├── backend
 │   ├── config
 │   │   └── db.js              # MongoDB connection
